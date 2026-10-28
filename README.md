@@ -51,9 +51,7 @@ Hello everyone. I have 12+ years of experience in commercial application develop
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=iodnoorov&theme=vue-dark&hide_border=false)
-
+# 📊 GitHub Metrics:
 <img src="metrics.svg" alt="GitHub metrics">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
