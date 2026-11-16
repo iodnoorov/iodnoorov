@@ -6,7 +6,6 @@ Hello everyone. I have 12+ years of experience in commercial application develop
 # 🚀 Projects:
 
 - 🎵 [**ymusic**](https://github.com/iodnoorov/ymusic) — terminal Yandex Music client in Rust: My Wave, search, playlists, its own audio player, MPRIS, Last.fm scrobbling. Linux and macOS, packaged for AUR and Homebrew.
-- ✅ [**ztaskmgr**](https://github.com/iodnoorov/ztaskmgr) — personal four-list task manager TUI.
 - 🌡️ [**hw-364a_humid_temp**](https://github.com/iodnoorov/hw-364a_humid_temp) — thermometer and hygrometer on an HW-364A board with Wi-Fi and its own web server.
 
 # 💻 Tech Stack:
