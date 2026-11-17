@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello everyone. I have 12+ years of experience in commercial application development. <br>I started as a full‑stack web developer and currently, I’m a systems analyst for banking products. <br>This GitHub repository is for personal projects and I’ll be very pleased if any of this code is useful to you.<br><br>🔭 I’m currently working on [ymusic](https://github.com/iodnoorov/ymusic), [ztaskmgr](https://github.com/iodnoorov/ztaskmgr)<br>🌱 I’m currently learning Rust, SDD<br>💬 Ask me about Linux, C++, Python, Web development, Rust (probably?)<br>⚡ Fun fact it's palindrome of tcaf nuF
+Hello everyone. I have 12+ years of experience in commercial application development. <br>I started as a full‑stack web developer and currently, I’m a systems analyst for banking products. <br>This GitHub repository is for personal projects and I’ll be very pleased if any of this code is useful to you.<br><br>🔭 I’m currently working on [ymusic](https://github.com/iodnoorov/ymusic)<br>🌱 I’m currently learning Rust, SDD<br>💬 Ask me about Linux, C++, Python, Web development, Rust (probably?)<br>⚡ Fun fact it's palindrome of tcaf nuF
 
 # 🚀 Projects:
 
